@@ -1,0 +1,4 @@
+Your player(s) enters the hut, it is
+a dark room (2) with a messy table, and two doorways
+that lead further to the back of the hovel.
+- left(3) & right(4)
